@@ -1,12 +1,12 @@
 {
   "l1ac906": {
     "met": false,
-    "reason": "The current Ethereum price of $35.75 is below the $100 target.",
-    "lastChecked": "2026-05-15T06:44:54.945Z"
+    "reason": "Ethereum price is $35.504915, which is below the $100 target.",
+    "lastChecked": "2026-05-16T06:10:06.961Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "The current bitcoin price of $80,604 is indeed above $50,000.",
-    "lastChecked": "2026-05-15T06:45:24.732Z"
+    "reason": "The current price of $78,970 is above the target of $50,000.",
+    "lastChecked": "2026-05-16T06:10:36.379Z"
   }
 }
