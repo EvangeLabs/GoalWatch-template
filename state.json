@@ -1,12 +1,12 @@
 {
   "l1ac906": {
     "met": false,
-    "reason": "Ethereum price is 36.48672, below $100.",
-    "lastChecked": "2026-05-31T07:08:57.024Z"
+    "reason": "Current ethereum price is 36.757991, below $100.",
+    "lastChecked": "2026-06-01T08:58:51.327Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "The current bitcoin price of $73,886 is above $50,000.",
-    "lastChecked": "2026-05-31T07:09:25.591Z"
+    "reason": "The bitcoin price is 72,803 USD, which is above 50,000.",
+    "lastChecked": "2026-06-01T08:59:10.964Z"
   }
 }
