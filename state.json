@@ -1,12 +1,12 @@
 {
   "l1ac906": {
     "met": false,
-    "reason": "Found 36.902683 on page, goal requires 100",
-    "lastChecked": "2026-06-18T08:23:24.052Z"
+    "reason": "The listed ethereum price is $36.93, below $100.",
+    "lastChecked": "2026-06-19T08:43:06.638Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "Found 64500 on page, goal requires 50",
-    "lastChecked": "2026-06-18T08:23:27.651Z"
+    "reason": "Bitcoin is priced at $62,594, which is above $50,000.",
+    "lastChecked": "2026-06-19T08:43:35.027Z"
   }
 }
