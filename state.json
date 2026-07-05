@@ -1,12 +1,12 @@
 {
   "l1ac906": {
     "met": false,
-    "reason": "Ethereum price is $35.58, below the $100 target.",
-    "lastChecked": "2026-07-04T06:32:16.446Z"
+    "reason": "The provided Ethereum price is $35.57, which is below $100.",
+    "lastChecked": "2026-07-05T06:53:05.504Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "Bitcoin price is $62,361, which exceeds $50,000.",
-    "lastChecked": "2026-07-04T06:32:46.577Z"
+    "reason": "Bitcoin is priced at $62,717, which is above $50,000.",
+    "lastChecked": "2026-07-05T06:53:34.484Z"
   }
 }
