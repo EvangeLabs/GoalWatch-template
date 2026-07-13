@@ -1,12 +1,12 @@
 {
   "l1ac906": {
     "met": false,
-    "reason": "Found 35.532923 on page, goal requires 100",
-    "lastChecked": "2026-07-12T06:16:09.436Z"
+    "reason": "The Ethereum price of $35.33 is below $100.",
+    "lastChecked": "2026-07-13T06:35:41.091Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "Found 63715 on page, goal requires 50",
-    "lastChecked": "2026-07-12T06:16:13.298Z"
+    "reason": "Bitcoin price of $62,751 exceeds the $50,000 threshold.",
+    "lastChecked": "2026-07-13T06:36:10.079Z"
   }
 }
