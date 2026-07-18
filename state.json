@@ -1,12 +1,12 @@
 {
   "l1ac906": {
     "met": false,
-    "reason": "Ethereum price is below $100.",
-    "lastChecked": "2026-07-17T05:58:36.757Z"
+    "reason": "The provided price for ethereum is $34.629618, which is below $100.",
+    "lastChecked": "2026-07-18T05:40:26.771Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "Bitcoin price is $62,780, which meets the goal.",
-    "lastChecked": "2026-07-17T05:59:05.435Z"
+    "reason": "Bitcoin price is 63939, which is above 50000.",
+    "lastChecked": "2026-07-18T05:40:57.597Z"
   }
 }
