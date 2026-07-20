@@ -1,12 +1,12 @@
 {
   "l1ac906": {
     "met": false,
-    "reason": "Ethereum price is below $100.",
-    "lastChecked": "2026-07-19T06:11:24.346Z"
+    "reason": "The listed ethereum price is $34.54, below $100.",
+    "lastChecked": "2026-07-20T06:29:45.412Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "The price is 64651, which exceeds $50,000.",
-    "lastChecked": "2026-07-19T06:11:54.533Z"
+    "reason": "The price is 64080 USD, which is above 50,000.",
+    "lastChecked": "2026-07-20T06:30:14.927Z"
   }
 }
