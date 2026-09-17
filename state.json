@@ -1,12 +1,12 @@
 {
   "l1ac906": {
     "met": false,
-    "reason": "Found 31.571807 on page, goal requires 100",
-    "lastChecked": "2026-09-16T08:44:23.329Z"
+    "reason": "The current Ethereum price is around $31.31, which is below $100.",
+    "lastChecked": "2026-09-17T08:47:37.362Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "Found 75477 on page, goal requires 50",
-    "lastChecked": "2026-09-16T08:45:22.374Z"
+    "reason": "The current price of $76,416 exceeds the $50,000 threshold.",
+    "lastChecked": "2026-09-17T08:48:07.508Z"
   }
 }
