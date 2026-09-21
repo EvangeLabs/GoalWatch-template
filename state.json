@@ -1,12 +1,12 @@
 {
   "l1ac906": {
     "met": false,
-    "reason": "Found 31.17748 on page, goal requires 100",
-    "lastChecked": "2026-09-20T08:43:59.285Z"
+    "reason": "Ethereum price is below $100.",
+    "lastChecked": "2026-09-21T09:09:39.596Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "Found 80299 on page, goal requires 50",
-    "lastChecked": "2026-09-20T08:44:58.871Z"
+    "reason": "The Bitcoin price is $83,976, which is higher than $50,000.",
+    "lastChecked": "2026-09-21T09:10:09.950Z"
   }
 }
