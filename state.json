@@ -2,11 +2,11 @@
   "l1ac906": {
     "met": false,
     "reason": "Ethereum price is below $100.",
-    "lastChecked": "2026-09-21T09:09:39.596Z"
+    "lastChecked": "2026-09-22T08:41:19.198Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "The Bitcoin price is $83,976, which is higher than $50,000.",
-    "lastChecked": "2026-09-21T09:10:09.950Z"
+    "reason": "Bitcoin price is $85,838, which is above $50,000.",
+    "lastChecked": "2026-09-22T08:41:49.454Z"
   }
 }
