@@ -1,12 +1,12 @@
 {
   "l1ac906": {
-    "met": false,
-    "reason": "The disclosed Ethereum price of 31.300263 is below $100.",
-    "lastChecked": "2026-09-28T10:01:04.521Z"
+    "met": true,
+    "reason": "Ethereum is currently trading above $1,000 per coin.",
+    "lastChecked": "2026-09-29T10:00:58.683Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "The current bitcoin price of $82,625 is indeed above $50,000.",
-    "lastChecked": "2026-09-28T10:01:33.956Z"
+    "reason": "Found 403 on page, goal requires 50",
+    "lastChecked": "2026-09-29T10:01:02.552Z"
   }
 }
