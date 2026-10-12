@@ -1,12 +1,12 @@
 {
   "l1ac906": {
     "met": false,
-    "reason": "The ETH price given (33.186859) is below $100.",
-    "lastChecked": "2026-10-11T10:11:29.548Z"
+    "reason": "The Ethereum price is below $100.",
+    "lastChecked": "2026-10-12T11:09:38.082Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "Found 82978 on page, goal requires 50",
-    "lastChecked": "2026-10-11T10:11:33.650Z"
+    "reason": "Found 83349 on page, goal requires 50",
+    "lastChecked": "2026-10-12T11:09:41.283Z"
   }
 }
