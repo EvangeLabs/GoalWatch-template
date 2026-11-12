@@ -1,12 +1,12 @@
 {
   "l1ac906": {
     "met": false,
-    "reason": "The current value listed is 35.906921, below the target.",
-    "lastChecked": "2026-11-11T11:16:37.415Z"
+    "reason": "The current Ethereum price is below $100.",
+    "lastChecked": "2026-11-12T11:34:46.059Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "The current bitcoin price of $73,989 is indeed above $50,000.",
-    "lastChecked": "2026-11-11T11:21:46.874Z"
+    "reason": "Found 73098 on page, goal requires 50",
+    "lastChecked": "2026-11-12T11:34:48.530Z"
   }
 }
