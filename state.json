@@ -1,12 +1,12 @@
 {
   "l1ac906": {
     "met": false,
-    "reason": "The current Ethereum price is below $100.",
-    "lastChecked": "2026-11-12T11:34:46.059Z"
+    "reason": "The current Ethereum price listed is $35.49, below the $100 goal.",
+    "lastChecked": "2026-11-13T11:19:09.723Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "Found 73098 on page, goal requires 50",
-    "lastChecked": "2026-11-12T11:34:48.530Z"
+    "reason": "Found 69308 on page, goal requires 50",
+    "lastChecked": "2026-11-13T11:19:12.267Z"
   }
 }
