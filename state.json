@@ -1,12 +1,12 @@
 {
   "l1ac906": {
     "met": false,
-    "reason": "Ethereum price is below $100.",
-    "lastChecked": "2026-11-22T11:44:54.817Z"
+    "reason": "The provided data shows a value of 35.555179, but there is no evidence that this figure reflects Ethereum's price in USD above $100.",
+    "lastChecked": "2026-11-23T13:22:00.295Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "Found 60912 on page, goal requires 50",
-    "lastChecked": "2026-11-22T11:44:57.361Z"
+    "reason": "Found 61202 on page, goal requires 50",
+    "lastChecked": "2026-11-23T13:22:02.716Z"
   }
 }
