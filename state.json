@@ -1,12 +1,12 @@
 {
   "l1ac906": {
     "met": false,
-    "reason": "The page shows a value of 35.749468, which is below $100.",
-    "lastChecked": "2026-11-27T12:52:18.099Z"
+    "reason": "The page shows an ETH value of 35.924985, which is below $100.",
+    "lastChecked": "2026-11-28T12:03:33.199Z"
   },
   "iwaar0e": {
     "met": true,
-    "reason": "Found 61417 on page, goal requires 50",
-    "lastChecked": "2026-11-27T12:52:20.525Z"
+    "reason": "Found 59291 on page, goal requires 50",
+    "lastChecked": "2026-11-28T12:03:35.741Z"
   }
 }
